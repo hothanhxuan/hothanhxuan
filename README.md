@@ -6,6 +6,37 @@
 
 ---
 
+## 🎓 Education
+
+### **Master of Business Administration**  
+**Seinäjoki University of Applied Sciences**, Finland  
+*Sep 2022 – May 2024*  
+- Major: International Business Management  
+- GPA: 4.5 / 5.0  
+
+### **Bachelor of Business Administration**  
+**FPT University**, Ho Chi Minh City, Vietnam  
+*Sep 2013 – May 2017*  
+- Major: Marketing  
+- GPA: 3.3 / 4.0 (ACBSP Accredited)  
+- Top 5 graduates in Business Administration Faculty
+
+---
+
+## 🛠 Skills
+
+- **Data Analyst:** SQL, PBI, Python, Machine Leearning & Statistic  
+- **Marketing & Media:** Social Media, TikTok Marketing, Video Content, Brand/Campaign Tracking  
+- **Sales & CRM:** Sales Consulting, B2B, CRM, Business Development, Customer Service  
+- **Research & Analysis:** Market Research, Social Listening, Strategic Planning  
+- **Tools & Tech:** MS Office, Figma, Canva, Python, BigQuery,  
+- **Soft Skills:** Team Leadership, Collaboration, Problem Solving, Adaptability, Critical Thinking  
+- **Languages:**  
+  - English: Professional proficiency  
+  - Chinese & Finnish: Limited proficiency  
+
+---
+
 ## 💼 Experience
 
 ### **Sushi Chef & Operations**  
@@ -50,37 +81,13 @@
 - Acquired 7 new clients, generating 215M VND in loan sales.  
 - Supported corporate payroll coordination.
 
----
 
-## 🎓 Education
 
-### **Master of Business Administration**  
-**Seinäjoki University of Applied Sciences**, Finland  
-*Sep 2022 – May 2024*  
-- Major: International Business Management  
-- GPA: 4.65 / 5.0  
 
-### **Bachelor of Business Administration**  
-**FPT University**, Ho Chi Minh City, Vietnam  
-*Sep 2013 – May 2017*  
-- Major: Marketing  
-- GPA: 3.3 / 4.0 (ACBSP Accredited)  
-- Top 5 graduates in Business Administration Faculty  
 
 ---
 
-## 🛠 Skills
 
-- **Marketing & Media:** Social Media, TikTok Marketing, Video Content, Brand/Campaign Tracking  
-- **Sales & CRM:** Sales Consulting, B2B, CRM, Business Development, Customer Service  
-- **Research & Analysis:** Market Research, Social Listening, Strategic Planning  
-- **Tools & Tech:** MS Office, Figma, Canva, Python  
-- **Soft Skills:** Team Leadership, Collaboration, Problem Solving, Adaptability, Critical Thinking  
-- **Languages:**  
-  - English: Professional proficiency  
-  - Chinese & Finnish: Limited proficiency  
-
----
 
 ## 📌 Projects
 
