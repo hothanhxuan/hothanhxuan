@@ -1,4 +1,4 @@
-# Xuan Ho (Susan)
+![image](https://github.com/user-attachments/assets/8f4390a9-16fb-4890-8181-4c88c94086a2)# Xuan Ho (Susan)
 
 📞 041 312 4555  
 📧 susanngo1995@gmail.com  
@@ -34,6 +34,29 @@
 - **Languages:**  
   - English: Professional proficiency  
   - Chinese & Finnish: Limited proficiency  
+
+---
+
+## 📌 Projects
+
+- **TikTok Content Creator** *(08/2024 – Present)*  
+  Developed content and livestream strategies for a spa-beauty business in Vietnam.
+
+---
+
+## 🎯 Licenses & certifications
+
+- 
+
+---
+
+## 🏆 Honors & Awards
+
+- 🎖 Certificate of Completion – GMS Fall Program (US, 11/2024)  
+- 🥈 Silver Award – 1st Runner-up, National Finnish IPMC Final (05/2024)  
+- 🎖 Certificate of Completion – GMS Fall Program (Germany, 11/2023)  
+- 🏅 Best Salesperson – Hoozing, Q1 2021  
+- 📚 Best Paper Award – KLiCELS8 Conference (12/2017)  
 
 ---
 
@@ -80,29 +103,6 @@
 - Created and managed email marketing and telesales campaigns.  
 - Acquired 7 new clients, generating 215M VND in loan sales.  
 - Supported corporate payroll coordination.
-
-
-
-
-
----
-
-
-
-## 📌 Projects
-
-- **TikTok Content Creator** *(08/2024 – Present)*  
-  Developed content and livestream strategies for a spa-beauty business in Vietnam.
-
----
-
-## 🏆 Honors & Awards
-
-- 🎖 Certificate of Completion – GMS Fall Program (US, 11/2024)  
-- 🥈 Silver Award – 1st Runner-up, National Finnish IPMC Final (05/2024)  
-- 🎖 Certificate of Completion – GMS Fall Program (Germany, 11/2023)  
-- 🏅 Best Salesperson – Hoozing, Q1 2021  
-- 📚 Best Paper Award – KLiCELS8 Conference (12/2017)  
 
 ---
 
