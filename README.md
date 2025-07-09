@@ -1,6 +1,7 @@
 Welcome to my GitHub profile! 👋
 
-# Hei, I’m Susan (Xuan)! 
+<h1 align="center"> Hei, I’m Susan (Xuan)! </h1>
+<h3 align="center"> On the journey to become a real Data Analyst! </h3>
 
 📞 041 312 4555  
 📧 susanngo1995@gmail.com  
@@ -36,7 +37,7 @@ Welcome to my GitHub profile! 👋
 - **Languages:**  
   - English: Professional proficiency  
   - Chinese & Finnish: Limited proficiency  
-
+  - Vietnamese: Native
 ---
 
 ## 📌 Projects
