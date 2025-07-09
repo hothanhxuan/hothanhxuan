@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8f4390a9-16fb-4890-8181-4c88c94086a2)# Xuan Ho (Susan)
+# Xuan Ho (Susan)
 
 📞 041 312 4555  
 📧 susanngo1995@gmail.com  
