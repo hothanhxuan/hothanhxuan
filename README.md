@@ -1,7 +1,7 @@
 # Xuan Ho (Susan)
 
 📞 041 312 4555  
-📧 htxuan842@gmail.com  
+📧 susanngo1995@gmail.com  
 🔗 [LinkedIn](#) | [Portfolio](#)
 
 ---
