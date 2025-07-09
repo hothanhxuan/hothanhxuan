@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋
 
 📞 041 312 4555  
 📧 susanngo1995@gmail.com  
-🔗 [LinkedIn](#) | [Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/susan95/) | [Portfolio](https://xuanho.notion.site/Hei-I-m-Susan-Xuan-15d4eaed5dbe802c8d5ddb35dbc4ba8b)
 
 ---
 
