@@ -1,6 +1,6 @@
 Welcome to my GitHub profile! 👋
 
-                                                                            # Xuan Ho (Susan)
+# Hei, I’m Susan (Xuan)! 
 
 📞 041 312 4555  
 📧 susanngo1995@gmail.com  
