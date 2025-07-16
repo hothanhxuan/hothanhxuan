@@ -49,7 +49,7 @@ Welcome to my GitHub profile! 👋
 
 ## 🎯 Licenses & certifications
 
-- 
+- Hackerrank Basis SQL certificate 
 
 ---
 
