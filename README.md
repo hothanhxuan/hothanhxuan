@@ -4,10 +4,16 @@ Welcome to my GitHub profile! 👋
 <h3 align="center"> On the journey to become a real Data Analyst! </h3>
 <h3 align="center"> Data is the oil field of the 21st century, how do they create big impact for businesses? </h3>
 
-
+## 📫 How to reach me: 
 📞 041 312 4555  
 📧 susanngo1995@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/susan95/) | [Portfolio](https://xuanho.notion.site/Hei-I-m-Susan-Xuan-15d4eaed5dbe802c8d5ddb35dbc4ba8b)
+
+---
+<a href="https://github.com/hothanhxuan/SQL-Data-Interview-Questions/">  
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=SQL-Practice-Collection&theme=radical" />
+</a> 
 
 ---
 
