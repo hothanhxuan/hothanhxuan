@@ -16,7 +16,7 @@ Welcome to my GitHub profile! 👋
 </a> 
 <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hothanhxuan&repo=ProjectMilestone-Ecommerce-BigQuery&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hothanhxuan&repo=ProjectMilestone-Ecommerce-BigQuery&theme=merko" />
 </a>  
 ---
 
