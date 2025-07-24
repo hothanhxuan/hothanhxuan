@@ -22,7 +22,7 @@ Welcome to my GitHub profile! 👋👋👋
 
 <a href="https://github.com/hothanhxuan/HR-and-Market-Expansion-Analysis/" >
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=HR-and-Market-Expansion-Analysis&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=HR-and-Market-Expansion-Analysis&theme=gruvbox" />
 </a>  
 
 ## 🎓 Education
