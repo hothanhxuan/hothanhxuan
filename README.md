@@ -65,7 +65,8 @@ Welcome to my GitHub profile! 👋👋👋
 
 ## 🎯 Licenses & certifications
 
-- Hackerrank Basis SQL certificate 
+- Hackerrank Basis SQL certificate
+  https://www.hackerrank.com/certificates/785e648173d4 
 
 ---
 
