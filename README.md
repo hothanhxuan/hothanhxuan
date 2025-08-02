@@ -2,7 +2,7 @@ Welcome to my GitHub profile! 👋👋👋
 
 <h1 align="center"> Hei, I’m Susan (Xuan)! </h1>
 <h3 align="center"> On the journey to become a real Data Analyst! </h3>
-<h3 align="center"> Data is the oil field of the 21st century, how do they create big impact for businesses? </h3>
+<h3 align="center"> I am interested in the following topics: Data is the oil field of the 21st century, how do they create big impact for businesses? </h3>
 
 ## 📫 How to reach me: 
 📞 041 312 4555  
