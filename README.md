@@ -9,11 +9,10 @@ Welcome to my GitHub profile! 👋👋👋
 📧 susanngo1995@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/susan95/) | [Portfolio](https://xuanho.notion.site/Hei-I-m-Susan-Xuan-15d4eaed5dbe802c8d5ddb35dbc4ba8b)
 
-
-<a href="https://github.com/hothanhxuan/SQL-Data-Questions/">  
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=SQL-Data-Questions&theme=radical" />
-</a> 
+ 
+<a href="https://github.com/hothanhxuan/SQL-Data-Questions/">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=SQL-Data-Questions&theme=radical" />
+</a>
 
 <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
