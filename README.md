@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 👋👋👋
 
 <a href="https://github.com/hothanhxuan/SQL-Data-Interview-Questions/">  
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=SQL-Data-Questions&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=SQL-Data-Interview-Questions&theme=radical" />
 </a> 
 
 <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/">
