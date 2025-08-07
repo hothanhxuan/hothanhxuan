@@ -82,7 +82,7 @@ Welcome to my GitHub profile! 👋👋👋
 ## 💼 Experience
 
 ### **Sushi Chef & Operations**  
-**Ítsudemo**, Seinäjoki, Finland  
+**Itsudemo**, Seinäjoki, Finland  
 *Oct 2022 – Apr 2025*  
 - Prepared and maintained sushi quality for buffet service.  
 - Assisted manager in driving revenue through promotional campaigns.  
