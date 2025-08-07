@@ -61,7 +61,8 @@ Welcome to my GitHub profile! 👋👋👋
   Developed content and livestream strategies for a spa-beauty business in Vietnam.
   (https://www.tiktok.com/@herskincare_spa and https://www.tiktok.com/@her_skincareclinic) 
 - **Strategic Sales Planning** *(04/2020 – 09/2020)*  
-  Developed a Campaign for Hoozing company in Vietnam: "Rent Apartments Online - Stay Safe with Hoozing During the Pandemic"
+  Led a campaign to launch a new feature in the Hoozing app, aiming to drive sales amid the COVID-19 pandemic
+  "Rent Apartments Online - Stay Safe with Hoozing During the Pandemic" 
   
 ---
 
