@@ -79,9 +79,24 @@ Welcome to my GitHub profile! 👋👋👋
 
 ---
 
+## 🌐 Extra Activities
+
+- **IMBA Global Master School – US** *(11/2024)*  
+  Market entry strategy project for Dot Foods in Australia.  
+- **Hackathon Junction** *(10/2024)*  
+  Top 25% finish; led UI design and video presentation.  
+- **IPMA Project Management Championship** *(05/2024)*  
+  Top 6 national finalists, organized by IPMA Young Crew Finland.  
+- **IMBA Global Master School – Germany** *(11/2023)*  
+  Solutions for R+W in “Employer Branding & Talent Winning” challenge.  
+- **International Conference – Kuala Lumpur** *(12/2017)*  
+  Speaker & author for paper on student satisfaction in OJT programs.
+  
+---
+
 ## 💼 Experience
 
-### **Sushi Chef & Operations**  
+### **Sushi Chef & Operations (Part-time)**  
 **Itsudemo**, Seinäjoki, Finland  
 *Oct 2022 – Apr 2025*  
 - Prepared and maintained sushi quality for buffet service.  
@@ -91,7 +106,7 @@ Welcome to my GitHub profile! 👋👋👋
 
 ---
 
-### **Sales Account Manager**  
+### **Sales Account Manager (Full-time)**  
 **Hoozing**, Ho Chi Minh City, Vietnam  
 *Jun 2019 – Jun 2022*  
 - Set and achieved 90–200% of ambitious sales quotas.  
@@ -104,7 +119,7 @@ Welcome to my GitHub profile! 👋👋👋
 
 ---
 
-### **Junior Research Analyst**  
+### **Junior Research Analyst (Full-time)**  
 **Buzzmetrics**, Ho Chi Minh City, Vietnam  
 *Jan 2018 – Sep 2018*  
 - Analyzed customer insights and social media behavior.  
@@ -122,20 +137,5 @@ Welcome to my GitHub profile! 👋👋👋
 - Created and managed email marketing and telesales campaigns.  
 - Acquired 7 new clients, generating 215M VND in loan sales.  
 - Supported corporate payroll coordination.
-
----
-
-## 🌐 Extra Activities
-
-- **IMBA Global Master School – US** *(11/2024)*  
-  Market entry strategy project for Dot Foods in Australia.  
-- **Hackathon Junction** *(10/2024)*  
-  Top 25% finish; led UI design and video presentation.  
-- **IPMA Project Management Championship** *(05/2024)*  
-  Top 6 national finalists, organized by IPMA Young Crew Finland.  
-- **IMBA Global Master School – Germany** *(11/2023)*  
-  Solutions for R+W in “Employer Branding & Talent Winning” challenge.  
-- **International Conference – Kuala Lumpur** *(12/2017)*  
-  Speaker & author for paper on student satisfaction in OJT programs.
 
 ---
