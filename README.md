@@ -57,9 +57,12 @@ Welcome to my GitHub profile! 👋👋👋
 
 ## 📌 Projects
 
-- **TikTok Content Creator** *(08/2024 – Present)*  
+- **TikTok Content Creator** *(08/2024 – 08/2025)*  
   Developed content and livestream strategies for a spa-beauty business in Vietnam.
-
+  https://www.tiktok.com/@her_skincareclinic?is_from_webapp=1&sender_device=pc
+- **Strategic Sales Planning** *(04/2020 – 09/2020)*  
+  Developed a Campaign for Hoozing company in Vietnam: "Rent Apartments Online - Stay Safe with Hoozing During the Pandemic"
+  
 ---
 
 ## 🎯 Licenses & certifications
