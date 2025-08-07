@@ -2,7 +2,8 @@ Welcome to my GitHub profile! 👋👋👋
 
 <h1 align="center"> Hei, I’m Xuan (Susan)! </h1>
 <h3 align="center"> On the journey to become a real Data Analyst! </h3>
-<h3 align="center"> I am interested in the following topics: Data is the oil field of the 21st century, how do they create big impact for businesses? </h3>
+My name is Xuan, but you can call me Susan. I graduated with honors and holds an MBA from Seinäjoki University of Applied Sciences in Finland, majoring in International Business Management. 
+I have a strong business mindset built on 5+ years of experience in sales consulting, customer relationship management, operations, and social media marketing. I'm passionate about working with data—transforming it into actionable insights that drive value for people and create measurable impact for businesses.I am interested in the following topics: Data is the oil field of the 21st century, how do they create big impact for businesses? 
 
 ## 📫 How to reach me: 
 📞 041 312 4555  
