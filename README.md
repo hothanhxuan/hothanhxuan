@@ -30,7 +30,7 @@ I'm passionate about working with data—transforming it into actionable insight
 </a>  
 
 <a href="https://github.com/hothanhxuan/Wide-World-Importers/" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Wide-World-Importers&theme=tokyonight&cache_seconds=3600" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Wide-World-Importers&theme=tokyonight&cache_seconds=600" />
 </a>
 
 
