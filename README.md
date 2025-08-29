@@ -29,6 +29,11 @@ I'm passionate about working with data—transforming it into actionable insight
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Sales-and-Market-Expansion-Analysis&theme=gruvbox&cache_seconds=3600" />
 </a>  
 
+<a href="https://github.com/hothanhxuan/Wide-World-Importers/" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Wide-World-Importers&theme=tokyonight&hide_border=true&border_radius=20&cache_seconds=3600" />
+</a>
+
+
 ## 🎓 Education
 
 ### **Master of Business Administration**  
