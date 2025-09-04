@@ -130,7 +130,8 @@ Responsible for driving sales in the Southern region of Vietnam, offering leasin
 - Managed a portfolio of 12 leasing projects with hundreds of properties, ranging from apartments to office spaces. 
 - Collaborated with the marketing team on pricing strategies, promotional content creation, and roperty image management.
 - Trained and coached 2–3 junior sales representatives on sales techniques and workflow processes.
-- **Recognition and Achievements:**
+  
+**Recognition and Achievements:**
 - HOOZING Best Employee – Q1 – 2021
 - HOOZING The Best Sales Team of the Year 2020: based on sales performance, sales operations, and professional work ethics.
 - HOOZING The Best Leasing Team – Q23 – 2020 
