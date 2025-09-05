@@ -141,12 +141,12 @@ Responsible for driving sales in the Southern region of Vietnam, offering leasin
 
 ### **Junior Research Analyst (Full-time)**  
 **Buzzmetrics**, Ho Chi Minh City, Vietnam  
-*Jan 2018 – Sep 2018*  
-- Analyzed customer insights and social media behavior.  
-- Managed brand and campaign tracking projects.  
-- Wrote reports with actionable recommendations for clients.  
-- Coordinated with departments on data collection and processing.  
-- **Key Clients:** Coca-Cola, Pepsi, Monsanto, CropLife
+*Jan 2018 – Sep 2018* 
+Responsible for researching, monitoring and analyzing customer insights or consumer behaviors through user-data on social media.
+- Set up basic projects (Brand and Campaigns tracking) to analyze and interpret results, provide feedback to clients, and prepare reports with actionable recommendations to support clients measure campaign effectiveness, optimize social media marketing and catch up on consumer trends. 
+- Coordinated the execution of projects, liaising with other departments responsible for data collection and processing.
+- Managed research for two industries with four major brands: Coca-Cola and Pepsi (Beverage) and Monsanto and CropLife (Agriculture).
+
 
 ---
 
