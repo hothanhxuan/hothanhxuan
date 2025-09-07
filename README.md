@@ -137,6 +137,14 @@ Responsible for driving sales in the Southern region of Vietnam, offering leasin
 - HOOZING The Best Sales Team of the Year 2020: based on sales performance, sales operations, and professional work ethics.
 - HOOZING The Best Leasing Team – Q23 – 2020 
 
+---
+
+### **Sales and Business Development (Full-time)**  
+**Engtalk English Center**, Ho Chi Minh City, Vietnam  
+*Sep 2018 – Jun 2019* 
+Responsible for building and standardizing sales and marketing operations for the educational start-up.
+•   Generated leads by developing educational marketing content, university scholarship campaigns, and social media marketing initiatives.
+•   Successfully converted inbound leads into sales, ensuring a 100% class fulfillment rate that aligned with the center’s class opening plans
 
 ---
 
