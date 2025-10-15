@@ -33,6 +33,9 @@ I'm passionate about working with data—transforming it into actionable insight
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Wide-World-Importers&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Interview-Case-Study-DataAnalyst&theme=dracula" />
+</a>
 
 ## 🎓 Education
 
