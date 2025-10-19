@@ -83,7 +83,9 @@ I'm passionate about working with data—transforming it into actionable insight
 ## 🎯 Licenses & certifications
 
 - HackerRank Basis SQL certificate
-  https://www.hackerrank.com/certificates/785e648173d4 
+  https://www.hackerrank.com/certificates/785e648173d4
+- HackerRank Intermediate SQL certificate
+  
 
 ---
 
