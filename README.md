@@ -175,3 +175,8 @@ existing and VIP clients, increasing engagement and customer retention.
 - Conducting telesales and consultations, successfully acquiring 7 new customers and generating 215 million VND in credit product sales.
 - Supporting to coordinate Corporate Payroll Service for an enterprise client in the Binh Thanh branch.
 
+---
+
+## 📈 Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hothanhxuan2&" alt="hothanhxuan" /></p>
