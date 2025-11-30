@@ -20,11 +20,11 @@ I'm passionate about working with data—transforming it into actionable insight
 </a>
 
 <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=ProjectMilestone-Ecommerce-BigQuery&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=ProjectMilestone-Ecommerce-BigQuery&theme=jolly" />
 </a> 
 
 <a href="https://github.com/hothanhxuan/Sales-and-Market-Expansion-Analysis/" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Sales-and-Market-Expansion-Analysis&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Sales-and-Market-Expansion-Analysis&theme=monokai" />
 </a>
 
 <a href="https://github.com/hothanhxuan/Wide-World-Importers/" >
