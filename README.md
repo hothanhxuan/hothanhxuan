@@ -19,7 +19,7 @@ I'm passionate about working with data—transforming it into actionable insight
 <div align="left">
 
   <a href="https://github.com/hothanhxuan/SQL-Data-Questions/"> 
-    <img src="https://img.shields.io/badge/SQL%20Data%20Questions-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SQL%20Data%20Questions-2BA84A?style=for-the-badge" />
   <br/>
   <sub>Collection of SQL data questions and exercises | SQL solving problems to understand real-world business scenarios.</sub>
   <br/><br/>
