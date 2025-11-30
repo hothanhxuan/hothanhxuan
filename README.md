@@ -14,33 +14,46 @@ I'm passionate about working with data—transforming it into actionable insight
 📧 susanngo1995@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/susan95/) | [Portfolio](https://xuanho.notion.site/Hei-I-m-Susan-Xuan-15d4eaed5dbe802c8d5ddb35dbc4ba8b)
 
-## 🚀 My Featured Data Projects
- 
-## 📌 Featured Data Projects
+## 🚀 Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left">
 
-  <a href="https://github.com/hothanhxuan/SQL-Data-Questions/" style="flex: 1 1 45%;">
-    <img align="center" src="https://github-readme-stats-xuan-kfl1igr52-susan-hos-projects.vercel.app/api/pin/?username=hothanhxuan&repo=SQL-Data-Questions&theme=radical" />
+  <a href="https://github.com/hothanhxuan/SQL-Data-Questions/">
+    <img src="https://img.shields.io/badge/SQL-Data-Questions-DB2E2E?style=for-the-badge" />
   </a>
+  <br/>
+  <sub>Collection of SQL data questions and exercises | SQL solving problems to understand real-world business scenarios.</sub>
+  <br/><br/>
 
-  <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/" style="flex: 1 1 45%;">
-    <img align="center" src="https://github-readme-stats-xuan-kfl1igr52-susan-hos-projects.vercel.app/api/pin/?username=hothanhxuan&repo=ProjectMilestone-Ecommerce-BigQuery&theme=jolly" />
+  <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/">
+    <img src="https://img.shields.io/badge/ProjectMilestone-Ecommerce-BigQuery-0078D4?style=for-the-badge" />
   </a>
+  <br/>
+  <sub>A project focused on understanding and analyzing user behavior for an E-commerce company.</sub>
+  <br/><br/>
 
-  <a href="https://github.com/hothanhxuan/Sales-and-Market-Expansion-Analysis/" style="flex: 1 1 45%;">
-    <img align="center" src="https://github-readme-stats-xuan-kfl1igr52-susan-hos-projects.vercel.app/api/pin/?username=hothanhxuan&repo=Sales-and-Market-Expansion-Analysis&theme=monokai" />
+  <a href="https://github.com/hothanhxuan/Sales-and-Market-Expansion-Analysis/">
+    <img src="https://img.shields.io/badge/Sales-and-Market-Expansion-Analysis-F4A261?style=for-the-badge" />
   </a>
+  <br/>
+  <sub>Integrated 50K+ sales orders from three CSVs using Power Query for cleaning and transformation. Built a data model, applied Design Thinking, and developed an interactive Power BI dashboard. Used DAX for key metrics and visualizations, providing insights for market expansion and product optimization.</sub>
+  <br/><br/>
 
-  <a href="https://github.com/hothanhxuan/Wide-World-Importers/" style="flex: 1 1 45%;">
-    <img align="center" src="https://github-readme-stats-xuan-kfl1igr52-susan-hos-projects.vercel.app/api/pin/?username=hothanhxuan&repo=Wide-World-Importers&theme=tokyonight" />
+  <a href="https://github.com/hothanhxuan/Wide-World-Importers/">
+    <img src="https://img.shields.io/badge/Wide-World-Importers-2A9D8F?style=for-the-badge" />
   </a>
+  <br/>
+  <sub>This project develops an operational HR analytics dashboard using Excel and Power BI to uncover workforce patterns, turnover behavior, and employee performance insights that drive business decisions.</sub>
+  <br/><br/>
 
-  <a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/" style="flex: 1 1 45%;">
-    <img align="center" src="https://github-readme-stats-xuan-kfl1igr52-susan-hos-projects.vercel.app/api/pin/?username=hothanhxuan&repo=Interview-Case-Study-DataAnalyst&theme=dracula&v=2" />
+  <a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/">
+    <img src="https://img.shields.io/badge/Interview-Case-Study-DataAnalyst-E76F51?style=for-the-badge" />
   </a>
+  <br/>
+  <sub>DA case study for the Nordic Business Diversity Index (NBDI) 2026 recruitment assignment. Includes data cleaning, categorization, and diversity analysis using SQL on Google BigQuery.</sub>
 
 </div>
+
 
 
 ## 🎓 Education
