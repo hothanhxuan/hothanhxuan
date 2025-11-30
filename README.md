@@ -14,45 +14,44 @@ I'm passionate about working with data—transforming it into actionable insight
 📧 susanngo1995@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/susan95/) | [Portfolio](https://xuanho.notion.site/Hei-I-m-Susan-Xuan-15d4eaed5dbe802c8d5ddb35dbc4ba8b)
 
-## 🚀 Projects
+## 🚀 Featured Data Projects
 
 <div align="left">
 
   <a href="https://github.com/hothanhxuan/SQL-Data-Questions/"> 
-    <img src="https://img.shields.io/badge/Project%201-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SQL%20Data%20Questions-000000?style=for-the-badge" />
   <br/>
   <sub>Collection of SQL data questions and exercises | SQL solving problems to understand real-world business scenarios.</sub>
   <br/><br/>
 
   <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/">
-    <img src="https://img.shields.io/badge/ProjectMilestone-Ecommerce-BigQuery-0078D4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Ecommerce%20BigQuery-0078D4?style=for-the-badge" />
   </a>
   <br/>
   <sub>A project focused on understanding and analyzing user behavior for an E-commerce company.</sub>
   <br/><br/>
 
   <a href="https://github.com/hothanhxuan/Sales-and-Market-Expansion-Analysis/">
-    <img src="https://img.shields.io/badge/Sales-and-Market-Expansion-Analysis-F4A261?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Sales%20Analysis-F4A261?style=for-the-badge" />
   </a>
   <br/>
   <sub>Integrated 50K+ sales orders from three CSVs using Power Query for cleaning and transformation. Built a data model, applied Design Thinking, and developed an interactive Power BI dashboard. Used DAX for key metrics and visualizations, providing insights for market expansion and product optimization.</sub>
   <br/><br/>
 
   <a href="https://github.com/hothanhxuan/Wide-World-Importers/">
-    <img src="https://img.shields.io/badge/Wide-World-Importers-2A9D8F?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Wide%20World%20Importers-2A9D8F?style=for-the-badge" />
   </a>
   <br/>
   <sub>This project develops an operational HR analytics dashboard using Excel and Power BI to uncover workforce patterns, turnover behavior, and employee performance insights that drive business decisions.</sub>
   <br/><br/>
 
   <a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/">
-    <img src="https://img.shields.io/badge/Interview-Case-Study-DataAnalyst-E76F51?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Interview%20Case%20Study-E76F51?style=for-the-badge" />
   </a>
   <br/>
   <sub>DA case study for the Nordic Business Diversity Index (NBDI) 2026 recruitment assignment. Includes data cleaning, categorization, and diversity analysis using SQL on Google BigQuery.</sub>
 
 </div>
-
 
 
 ## 🎓 Education
