@@ -14,26 +14,28 @@ I'm passionate about working with data—transforming it into actionable insight
 📧 susanngo1995@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/susan95/) | [Portfolio](https://xuanho.notion.site/Hei-I-m-Susan-Xuan-15d4eaed5dbe802c8d5ddb35dbc4ba8b)
 
+## 🚀 My Featured Data Projects
  
 <a href="https://github.com/hothanhxuan/SQL-Data-Questions/"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=SQL-Data-Questions&theme=radical" />
+  <img align="center" src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=hothanhxuan&repo=SQL-Data-Questions&theme=radical" />
 </a>
 
 <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=ProjectMilestone-Ecommerce-BigQuery&theme=jolly" />
-</a> 
-
-<a href="https://github.com/hothanhxuan/Sales-and-Market-Expansion-Analysis/" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Sales-and-Market-Expansion-Analysis&theme=monokai" />
+  <img align="center" src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=hothanhxuan&repo=ProjectMilestone-Ecommerce-BigQuery&theme=jolly" />
 </a>
 
-<a href="https://github.com/hothanhxuan/Wide-World-Importers/" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Wide-World-Importers&theme=tokyonight" />
+<a href="https://github.com/hothanhxuan/Sales-and-Market-Expansion-Analysis/">
+  <img align="center" src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=hothanhxuan&repo=Sales-and-Market-Expansion-Analysis&theme=monokai" />
 </a>
 
-<a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Interview-Case-Study-DataAnalyst&theme=dracula&v=2" />
+<a href="https://github.com/hothanhxuan/Wide-World-Importers/">
+  <img align="center" src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=hothanhxuan&repo=Wide-World-Importers&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/">
+  <img align="center" src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=hothanhxuan&repo=Interview-Case-Study-DataAnalyst&theme=dracula&v=2" />
+</a>
+
 
 ## 🎓 Education
 
