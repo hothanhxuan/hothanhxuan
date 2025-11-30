@@ -20,12 +20,10 @@ I'm passionate about working with data—transforming it into actionable insight
 </a>
 
 <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=ProjectMilestone-Ecommerce-BigQuery&theme=merko" />
 </a>  
 
 <a href="https://github.com/hothanhxuan/Sales-and-Market-Expansion-Analysis/" >
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hothanhxuan&repo=Sales-and-Market-Expansion-Analysis&theme=gruvbox" />
 </a>  
 
