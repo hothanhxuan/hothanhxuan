@@ -18,10 +18,11 @@ I'm passionate about working with data—transforming it into actionable insight
 
 <div align="left">
 
-  <a href="https://github.com/hothanhxuan/SQL-Data-Questions/"> 
+   <a href="https://github.com/hothanhxuan/SQL-Data-Questions/">
     <img src="https://img.shields.io/badge/SQL%20Data%20Questions-2BA84A?style=for-the-badge" />
+  </a>
   <br/>
-  <sub>Collection of SQL data questions and exercises to understand real-world business scenarios.</sub>
+  <sub>Collection of SQL data questions and exercises.</sub>
   <br/><br/>
 
   <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/">
