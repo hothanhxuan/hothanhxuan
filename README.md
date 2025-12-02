@@ -39,8 +39,8 @@ I'm passionate about working with data—transforming it into actionable insight
   <sub>Integrated 50K+ sales orders from three CSVs using Power Query for cleaning and transformation. Built a data model, applied Design Thinking, and developed an interactive Power BI dashboard. Used DAX for key metrics and visualizations, providing insights for market expansion and product optimization.</sub>
   <br/><br/>
 
-  <a href="https://github.com/hothanhxuan/Employee-Turnover-Workforce-Performance-Analysis-">
-    <img src="https://img.shields.io/badge/Wide%20World%20Importers-2A9D8F?style=for-the-badge" />
+  <a href="https://github.com/hothanhxuan/Employee-Turnover-Workforce-Performance-Analysis/">
+    <img src="https://img.shields.io/badge/Employee%20Turnover%20Workforce%20Performance%20Analysis-2A9D8F?style=for-the-badge" />
   </a>
   <br/>
   <sub>This project develops an operational HR analytics dashboard using Excel and Power BI to uncover workforce patterns, turnover behavior, and employee performance insights that drive business decisions.</sub>
