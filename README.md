@@ -46,8 +46,8 @@ I'm passionate about working with data—transforming it into actionable insight
   <sub>This project develops an Operational HR Dashboard using Excel and Power BI to uncover workforce patterns, turnover behavior, and employee performance insights that drive business decisions.</sub>
   <br/><br/>
 
-   <a href="https://github.com/hothanhxuan/Fashion-Marketing-Sales-Analysis/"> 
-      <img src="https://img.shields.io/badge/Fashion%20Marketing%20Sales%20Analysis-FF69B4?style=for-the-badge" />
+   <a href="https://github.com/hothanhxuan/Fashion-Marketing-and-Sales-Analysis/"> 
+      <img src="https://img.shields.io/badge/Fashion%20Marketing%20and%20Sales%20Analysis-FF69B4?style=for-the-badge" />
   </a>
   <br/>
   <sub>A project focused on deploying an Analytical Dashboard helps leadership understand budget spending and marketing campaign performance, link sales revenue to marketing expenses, and optimize marketing budget efficiency based on key KPIs.</sub>
