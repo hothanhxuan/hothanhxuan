@@ -59,6 +59,7 @@ I'm passionate about working with data—transforming it into actionable insight
   <br/>
   <sub>DA case study for the Nordic Business Diversity Index (NBDI) 2026 recruitment assignment. Includes data cleaning, categorization, and diversity analysis using SQL on Google BigQuery.</sub>
 
+Mini Project 1 - Python Fundamental & Application of Computational Thinking
 </div>
 
 
