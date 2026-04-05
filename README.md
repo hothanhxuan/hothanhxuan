@@ -139,13 +139,15 @@ I'm passionate about working with data—transforming it into actionable insight
 
 ## 💼 Experience
 
-### **Sushi Chef & Operations (Part-time)**  
-**Itsudemo**, Seinäjoki, Finland  
-*Oct 2022 – Apr 2025*  
-- Prepared and maintained sushi quality for buffet service.  
-- Assisted manager in driving revenue through promotional campaigns.  
-- Managed ordering and inventory (normal & cold storage).  
-- Designed and organized tasting events.
+### **Restaurant Operations (Sushi Chef → Assistant Manager → Store Manager)** 
+**Itsudemo Sushi Bar, Seinajoki & Kazumi Restaurant, Espoo**, Finland  
+*Oct 2022 – Present*  
+
+Started as a Sushi Chef while studying and was later promoted to Assistant Store Manager, then took on a Restaurant Manager role in a new location, handling more responsibilities in daily operations and team coordination.
+- Managed end-to-end restaurant operations in two establishments, overseeing inventory, staff scheduling, quality control, and workflow to ensure operational efficiency and high customer satisfaction.
+- Tracked stock levels and sales trends to plan ordering and reduce shortages or waste, while maintaining consistent product quality that helped build a strong base of repeat customers.
+- Planned and executed marketing initiatives, managing social media presence (Facebook & Instagram) and online reviews (Google), proactively addressing feedback to strengthen brand reputation and customer retention; organized quarterly in-mall tasting events to attract new clients and maximize engagement (Itsudemo Sushi Bar).
+- Engaged directly with customers primarily in English, providing attentive service and understanding basic Finnish expressions when necessary, to ensure positive dining experiences and repeat visits.
 
 ---
 
@@ -158,7 +160,7 @@ Responsible for driving sales in the Southern region of Vietnam, offering leasin
 - Negotiated with key stakeholders and successfully closed deals each month, signing 80+ lease contracts per year.
 - Managed a portfolio of 12 leasing projects with hundreds of properties, ranging from apartments to office spaces. 
 - Collaborated with the marketing team on pricing strategies, promotional content creation, and roperty image management.
-- Trained and coached 2–3 junior sales representatives on sales techniques and workflow processes.
+- Trained and coached sales team representatives on sales techniques and workflow processes.
   
 **Recognition and Achievements:**
 - HOOZING Best Employee – Q1 – 2021
@@ -182,10 +184,10 @@ Responsible for building and standardizing sales and marketing operations for th
 *Jan 2018 – Sep 2018* 
 
 Responsible for researching, monitoring and analyzing customer insights or consumer behaviors through user-data on social media.
-- Set up basic projects (Brand and Campaigns tracking) to analyze and interpret results, provide feedback to clients, and prepare reports with actionable recommendations to support clients measure campaign effectiveness, optimize social media marketing and catch up on consumer trends. 
-- Coordinated the execution of projects, liaising with other departments responsible for data collection and processing.
-- Managed research for two industries with four major brands: Coca-Cola and Pepsi (Beverage) and Monsanto and CropLife (Agriculture).
-
+- Analyzed social listening data to track key KPIs such as buzz volume, buzz trend, and campaign sentiment across campaign lifecycles (pre-, during, and post-launch), generating insights that informed marketing strategies for major clients. 
+- Collaborated with cross-functional teams to optimize data collection and validation processes, enhancing data accuracy and ensuring reliable insights across beverage and agriculture projects.
+- Conducted trend and competitive landscape analysis by identifying top-performing campaigns (e.g., seasonal/holiday campaigns) and extracting success drivers, enabling clients to refine strategies and respond effectively to market trends.
+- Translated cleaned datasets into structured reports and insight-driven dashboards (PowerPoint), collaborating with clients and external agencies to interpret performance and drive actionable improvements in campaign effectiveness.
 
 ---
 
