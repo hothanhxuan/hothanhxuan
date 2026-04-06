@@ -53,6 +53,13 @@ I'm passionate about working with data—transforming it into actionable insight
   <sub>A project focused on deploying an Analytical Dashboard helps leadership understand budget spending and marketing campaign performance, link sales revenue to marketing expenses, and optimize marketing budget efficiency based on key KPIs.</sub>
   <br/><br/>
 
+<a href="https://github.com/hothanhxuan/Fashion-Marketing-and-Sales-Analysis/"> 
+      <img src="https://img.shields.io/badge/Project%205%20Optimizing%20Flight%20Operations%20and%20Reducing%20Cancellations%20|%20Power%20BI-#00BFFF?style=for-the-badge" />
+  </a>
+  <br/>
+  <sub>A project focused on deploying an Analytical Dashboard that helps airline leadership understand flight operations and performance, identify trends in delays and cancellations, assess the impact of temporal and geographical factors on schedules, and optimize operational efficiency and resource allocation based on key performance indicators.</sub>
+  <br/><br/>
+  
   <a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/">
     <img src="https://img.shields.io/badge/Interview%20Case%20Study-E76F51?style=for-the-badge" />
   </a>
