@@ -26,7 +26,7 @@ I'm passionate about working with data—transforming it into actionable insight
   <br/><br/>
 
   <a href="https://github.com/hothanhxuan/Project-1-Understanding-E-commerce-User-Behavior-Using-Google-Analytics-Data-in-BigQuery/">
-    <img src="https://img.shields.io/badge/Project%201%20Understanding%20E%20commerce%20User%20Behavior%20Using%20Google%20Analytics%20Data%20in%20BigQuery-0078D4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Project%201%20Understanding%20E-commerce%20User%20Behavior%20Using%20Google%20Analytics%20Data%20in%20BigQuery-0078D4?style=for-the-badge" />
   </a>
   <br/>
   <sub>A project focused on understanding and analyzing user behavior for an E-commerce company.</sub>
@@ -47,7 +47,7 @@ I'm passionate about working with data—transforming it into actionable insight
   <br/><br/>
 
    <a href="https://github.com/hothanhxuan/Fashion-Marketing-and-Sales-Analysis/"> 
-      <img src="https://img.shields.io/badge/Fashion%20Marketing%20and%20Sales%20Analysis-FF69B4?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Project%204%20:%20Visualizing%20Marketing%20Spend%20and%20Sales%20Performance%20in%20Fashion%20E-commerce%20|%20Power%20BI-FF69B4?style=for-the-badge" />
   </a>
   <br/>
   <sub>A project focused on deploying an Analytical Dashboard helps leadership understand budget spending and marketing campaign performance, link sales revenue to marketing expenses, and optimize marketing budget efficiency based on key KPIs.</sub>
