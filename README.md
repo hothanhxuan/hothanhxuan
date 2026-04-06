@@ -53,7 +53,7 @@ I'm passionate about working with data—transforming it into actionable insight
   <sub>A project focused on deploying an Analytical Dashboard helps leadership understand budget spending and marketing campaign performance, link sales revenue to marketing expenses, and optimize marketing budget efficiency based on key KPIs.</sub>
   <br/><br/>
 
-<a href="https://github.com/hothanhxuan/Fashion-Marketing-and-Sales-Analysis/"> 
+<a href="https://github.com/hothanhxuan/Airlines-Airports-Cancellation-Analysis/"> 
       <img src="https://img.shields.io/badge/Project%205%20Optimizing%20Flight%20Operations%20and%20Reducing%20Cancellations%20|%20Power%20BI-00BFFF?style=for-the-badge" />
   </a>
   <br/>
