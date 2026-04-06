@@ -40,7 +40,7 @@ I'm passionate about working with data—transforming it into actionable insight
   <br/><br/>
 
   <a href="https://github.com/hothanhxuan/Employee-Turnover-Workforce-Performance-Analysis/">
-    <img src="https://img.shields.io/badge/Employee%20Turnover%20Workforce%20Performance%20Analysis-2A9D8F?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Project%203%20HR%20Analytics%20:%20Employee%20Turnover%20&%20Workforce%20Performance%20|%20Power%20BI-2A9D8F?style=for-the-badge" />
   </a>
   <br/>
   <sub>This project develops an Operational HR Dashboard using Excel and Power BI to uncover workforce patterns, turnover behavior, and employee performance insights that drive business decisions.</sub>
