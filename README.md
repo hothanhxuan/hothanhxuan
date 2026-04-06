@@ -54,7 +54,7 @@ I'm passionate about working with data—transforming it into actionable insight
   <br/><br/>
 
 <a href="https://github.com/hothanhxuan/Fashion-Marketing-and-Sales-Analysis/"> 
-      <img src="https://img.shields.io/badge/Project%205%20Optimizing%20Flight%20Operations%20and%20Reducing%20Cancellations%20|%20Power%20BI-#00BFFF?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Project%205%20Optimizing%20Flight%20Operations%20and%20Reducing%20Cancellations%20|%20Power%20BI-00BFFF?style=for-the-badge" />
   </a>
   <br/>
   <sub>A project focused on deploying an Analytical Dashboard that helps airline leadership understand flight operations and performance, identify trends in delays and cancellations, assess the impact of temporal and geographical factors on schedules, and optimize operational efficiency and resource allocation based on key performance indicators.</sub>
