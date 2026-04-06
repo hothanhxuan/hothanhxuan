@@ -32,8 +32,8 @@ I'm passionate about working with data—transforming it into actionable insight
   <sub>A project focused on understanding and analyzing user behavior for an E-commerce company.</sub>
   <br/><br/>
 
-  <a href="https://github.com/hothanhxuan/Sales-and-Market-Expansion-Analysis/">
-    <img src="https://img.shields.io/badge/Sales%20Analysis-F4A261?style=for-the-badge" />
+  <a href="https://github.com/hothanhxuan/Project-2-Sales-Performance-and-Market-Expansion-in-Retail-Dashboard-Power-BI/">
+    <img src="https://img.shields.io/badge/Project%202%20Sales%20Performance%20and%20Market%20Expansion%20in%20Retail%20Dashboard%20|%20Power%20BI-F4A261?style=for-the-badge" />
   </a>
   <br/>
   <sub>Integrated 50K+ sales orders from three CSVs using Power Query for cleaning and transformation. Built a data model, applied Design Thinking, and developed an interactive Power BI dashboard. Used DAX for key metrics and visualizations, providing insights for market expansion and product optimization.</sub>
