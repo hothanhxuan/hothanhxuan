@@ -25,8 +25,8 @@ I'm passionate about working with data—transforming it into actionable insight
   <sub>Collection of SQL data questions and exercises.</sub>
   <br/><br/>
 
-  <a href="https://github.com/hothanhxuan/ProjectMilestone-Ecommerce-BigQuery/">
-    <img src="https://img.shields.io/badge/Ecommerce%20BigQuery-0078D4?style=for-the-badge" />
+  <a href="https://github.com/hothanhxuan/Project-1-Understanding-E-commerce-User-Behavior-Using-Google-Analytics-Data-in-BigQuery/">
+    <img src="https://img.shields.io/badge/Project%201%20Understanding%20E%20commerce%20User%20Behavior%20Using%20Google%20Analytics%20Data%20in%20BigQuery-0078D4?style=for-the-badge" />
   </a>
   <br/>
   <sub>A project focused on understanding and analyzing user behavior for an E-commerce company.</sub>
