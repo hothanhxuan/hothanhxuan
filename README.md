@@ -59,20 +59,19 @@ I'm passionate about working with data—transforming it into actionable insight
   <br/>
   <sub>A project focused on deploying an Analytical Dashboard that helps airline leadership understand flight operations and performance, identify trends in delays and cancellations, assess the impact of temporal and geographical factors on schedules, and optimize operational efficiency and resource allocation based on key performance indicators.</sub>
   <br/><br/>
-  
+
+<a href="https://github.com/hothanhxuan/E-commerce-Analytics-ETL-Pipeline"> 
+      <img 
+src="https://img.shields.io/badge/Project%206%20E%20commerce%20Analytics%20ETL%20Pipeline%20%7C%20Python-FFD43B?style=for-the-badge" />  </a>
+  <br/>
+  <sub>An end-to-end ETL Pipeline that integrates multi-channel e-commerce data from TechStore Vietnam into a BigQuery data warehouse, supporting three PowerBI Dashboard: Customer Journey, Cashflow Analytics, and Payment Status Management.</sub>
+  <br/><br/>
+
   <a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/">
     <img src="https://img.shields.io/badge/Interview%20Case%20Study-E76F51?style=for-the-badge" />
   </a>
   <br/>
   <sub>DA case study for the Nordic Business Diversity Index (NBDI) 2026 recruitment assignment. Includes data cleaning, categorization, and diversity analysis using SQL on Google BigQuery.</sub>
-   <br/><br/>
-   
-<a href="https://github.com/hothanhxuan/E-commerce-Analytics-ETL-Pipeline"> 
-      <img src="https://img.shields.io/badge/Project%20E%20commerce%20Analytics%20ETL%20Pipeline%20|%Python-FFFF00?style=for-the-badge" />
-  </a>
-  <br/>
-  <sub>An end-to-end ETL Pipeline that integrates multi-channel e-commerce data from TechStore Vietnam into a BigQuery data warehouse, supporting three PowerBI Dashboard: Customer Journey, Cashflow Analytics, and Payment Status Management.</sub>
-  <br/><br/>
 
 ## 🎓 Education
 
