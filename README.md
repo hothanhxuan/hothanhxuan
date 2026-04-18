@@ -65,7 +65,14 @@ I'm passionate about working with data—transforming it into actionable insight
   </a>
   <br/>
   <sub>DA case study for the Nordic Business Diversity Index (NBDI) 2026 recruitment assignment. Includes data cleaning, categorization, and diversity analysis using SQL on Google BigQuery.</sub>
-
+   <br/><br/>
+   
+<a href="https://github.com/hothanhxuan/E-commerce-Analytics-ETL-Pipeline"> 
+      <img src="https://img.shields.io/badge/Project%20E%20commerce%20Analytics%20ETL%20Pipeline%20|%Python-FFFF00?style=for-the-badge" />
+  </a>
+  <br/>
+  <sub>An end-to-end ETL Pipeline that integrates multi-channel e-commerce data from TechStore Vietnam into a BigQuery data warehouse, supporting three PowerBI Dashboard: Customer Journey, Cashflow Analytics, and Payment Status Management.</sub>
+  <br/><br/>
 
 ## 🎓 Education
 
