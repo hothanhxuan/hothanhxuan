@@ -62,9 +62,9 @@ I'm passionate about working with data—transforming it into actionable insight
 
 <a href="https://github.com/hothanhxuan/E-commerce-Analytics-ETL-Pipeline"> 
       <img 
-src="https://img.shields.io/badge/Project%206%20Ecommerce%20Analytics%20ETL%20Pipeline%20%7C%20Python-FFD43B?style=for-the-badge" />  </a>
+src="https://img.shields.io/badge/Project%206%20Ecommerce%20Analytics%20Building%20an%20Omnichannel%20Data%20Pipeline%20%7C%20Python-FFD43B?style=for-the-badge" />  </a>
   <br/>
-  <sub>An end-to-end ETL Pipeline that integrates multi-channel e-commerce data from TechStore Vietnam into a BigQuery data warehouse, supporting three PowerBI Dashboard: Customer Journey, Cashflow Analytics, and Payment Status Management.</sub>
+  <sub>An end-to-end ETL Pipeline that integrates omnichannel e-commerce data from TechStore Vietnam into a BigQuery data warehouse, supporting three PowerBI Dashboard: Customer Journey, Cashflow Analytics, and Payment Status Management.</sub>
   <br/><br/>
 
   <a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/">
