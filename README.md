@@ -121,7 +121,7 @@ src="https://img.shields.io/badge/Project%206%20Ecommerce%20Analytics%20:%20Buil
 - HackerRank Basis SQL certificate
   https://www.hackerrank.com/certificates/785e648173d4
 - HackerRank Intermediate SQL certificate
-  
+  https://www.hackerrank.com/certificates/iframe/7a0d62ada9bc
 
 ---
 
