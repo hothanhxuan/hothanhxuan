@@ -104,7 +104,7 @@ src="https://img.shields.io/badge/Project%206%20Ecommerce%20Analytics%20:%20Buil
   - Vietnamese: Native
 ---
 
-## 📌 Projects
+## 📌 Other Projects
 
 - **TikTok Content Creator** *(08/2024 – 08/2025)*  
   Developed content and livestream strategies for a spa-beauty business in Vietnam.
