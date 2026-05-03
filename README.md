@@ -153,7 +153,7 @@ src="https://img.shields.io/badge/Project%206%20Ecommerce%20Analytics%20:%20Buil
 ## 💼 Experience
 
 ### **Restaurant Operations (Sushi Chef → Assistant Manager → Store Manager)** 
-**Itsudemo Sushi Bar, Seinajoki & Kazumi Restaurant, Espoo, Eat Poké, Helsinki**, Finland  
+**Itsudemo Sushi Bar, Seinajoki| Kazumi Restaurant, Espoo| Eat Poké, Helsinki**, Finland  
 *Oct 2022 – Present*  
 
 Started as a Sushi Chef while studying and was later promoted to Assistant Store Manager, then took on a Restaurant Manager role in a new location, handling more responsibilities in daily operations and team coordination.
