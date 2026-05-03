@@ -153,11 +153,11 @@ src="https://img.shields.io/badge/Project%206%20Ecommerce%20Analytics%20:%20Buil
 ## 💼 Experience
 
 ### **Restaurant Operations (Sushi Chef → Assistant Manager → Store Manager)** 
-**Itsudemo Sushi Bar, Seinajoki & Kazumi Restaurant, Espoo**, Finland  
+**Itsudemo Sushi Bar, Seinajoki & Kazumi Restaurant, Espoo, Eat Poké, Helsinki**, Finland  
 *Oct 2022 – Present*  
 
 Started as a Sushi Chef while studying and was later promoted to Assistant Store Manager, then took on a Restaurant Manager role in a new location, handling more responsibilities in daily operations and team coordination.
-- Managed end-to-end restaurant operations in two establishments, overseeing inventory, staff scheduling, quality control, and workflow to ensure operational efficiency and high customer satisfaction.
+- Managed end-to-end restaurant operations, overseeing inventory, staff scheduling, quality control, and workflow to ensure operational efficiency and high customer satisfaction.
 - Tracked stock levels and sales trends to plan ordering and reduce shortages or waste, while maintaining consistent product quality that helped build a strong base of repeat customers.
 - Planned and executed marketing initiatives, managing social media presence (Facebook & Instagram) and online reviews (Google), proactively addressing feedback to strengthen brand reputation and customer retention; organized quarterly in-mall tasting events to attract new clients and maximize engagement (Itsudemo Sushi Bar).
 - Engaged directly with customers primarily in English, providing attentive service and understanding basic Finnish expressions when necessary, to ensure positive dining experiences and repeat visits.
