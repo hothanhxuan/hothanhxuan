@@ -69,7 +69,7 @@ src="https://img.shields.io/badge/Project%206%20Ecommerce%20Analytics%20:%20Buil
 
 <a href="https://github.com/hothanhxuan/Project-7-Machine-Learning-Churn-Prediction"> 
       <img 
-src="https://img.shields.io/badge/Project%207%20Churn%20Prediction%20&%20Customer%20Segmentation%20for%20E%20Commerce%20Retention%20|%20Machine Learning%20&%20Python-FFD43B?style=for-the-badge" />  </a>
+src="https://img.shields.io/badge/Project%207%20Churn%20Prediction%20&%20Customer%20Segmentation%20for%20E%20Commerce%20Retention%20|%20Machine Learning%20&%20Python-374151?style=for-the-badge" />  </a>
   <br/>
   <sub>An end-to-end Machine Learning pipeline using Random Forest (95.5% accuracy) to predict e-commerce customer churn and KMeans clustering to segment users for targeted retention strategies.</sub>
   <br/><br/>
