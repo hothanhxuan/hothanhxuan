@@ -74,7 +74,7 @@ src="https://img.shields.io/badge/Project%207%20Churn%20Prediction%20&%20Custome
   <sub>An end-to-end Machine Learning pipeline using Random Forest (95.5% accuracy) to predict e-commerce customer churn and KMeans clustering to segment users for targeted retention strategies.</sub>
   <br/><br/>
   
-  <a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/">
+<a href="https://github.com/hothanhxuan/Interview-Case-Study-DataAnalyst/">
     <img src="https://img.shields.io/badge/Interview%20Case%20Study-E76F51?style=for-the-badge" />
   </a>
   <br/>
