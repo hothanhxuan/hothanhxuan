@@ -66,7 +66,6 @@ src="https://img.shields.io/badge/Project%206%20Ecommerce%20Analytics%20:%20Buil
   <br/>
   <sub>An end-to-end ETL Pipeline that integrates omnichannel e-commerce data from TechStore Vietnam into a BigQuery data warehouse, supporting three PowerBI Dashboard: Customer Journey, Cashflow Analytics, and Payment Status Management.</sub>
   <br/><br/>
-
 <a href="https://github.com/hothanhxuan/Project-7-Machine-Learning-Churn-Prediction"> 
    <img src="https://img.shields.io/badge/Project%207%20Churn%20Prediction%20&%20Customer%20Segmentation%20for%20E%20Commerce%20Retention%20|%20Machine%20Learning%20&%20Python-C0C0C0?style=for-the-badge" />  </a>
   <br/>
