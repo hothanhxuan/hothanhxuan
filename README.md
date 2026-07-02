@@ -17,21 +17,21 @@ I enjoy connecting **people, processes and technology** to create more efficient
 🔹 Business Systems & CRM    
 🔹 Data Analytics & Business Intelligence  
 🔹 Operational Excellence   
-🔹 Governance & Third-Party Risk Management (TPRM)     
+🔹 Governance, Risk & Third-Party Management     
 🔹 Digital Transformation    
 
 ### What drives me
 
-                 BUSINESS IMPACT
-                        ▲
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-     People         Processes       Technology
-        │               │               │
- Customer         SOPs & Workflows    Analytics
- Lifecycle        Standardisation     Dashboards
- Stakeholders      Operations         BI & Automation
+```mermaid
+graph TD
+    P["👥 People<br/>Customer Lifecycle<br/>Stakeholders"]
+    PR["⚙️ Processes<br/>SOPs & Workflows<br/>Standardisation Operations"]
+    T["💻 Technology<br/>Analytics Dashboards<br/>BI & Automation"]
+
+    P --> BI["📈 Business Impact"]
+    PR --> BI
+    T --> BI
+```
 
 My career has been about connecting these three dimensions to help organisations operate more effectively:
 
@@ -39,10 +39,6 @@ My career has been about connecting these three dimensions to help organisations
 • creates structure and standardisation  
 • improves collaboration between teams  
 • uses systems and analytics to support better decisions  
-
-This mindset has shaped my journey across:
-
-Market Research → CRM Operations → Business Systems → Analytics → Process Improvement
 
 ---
 
