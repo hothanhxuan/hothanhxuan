@@ -8,18 +8,18 @@ My name is Xuan, but you can call me Susan.
 
 🎓 I graduated with honors and holds an MBA from Seinäjoki University of Applied Sciences in Finland, majoring in International Business Management. 
 
-Throughout my career, I have worked across **market research, sales & CRM operations, customer lifecycle management and business operations**, helping teams improve workflows, standardise processes and make better decisions using data.
+Throughout my career, I have worked across **market research, sales leadership, CRM operations, customer lifecycle management and business operation**s, helping teams improve workflows, standardise processes and make better decisions through data and systems.
 
 I enjoy connecting **people, processes and technology** to improve workflows, strengthen collaboration and create measurable business impact.
 
 ### Areas of Interest
 
-🔹 Business Process Improvement    
 🔹 Business Systems & CRM    
-🔹 Data Analytics & Business Intelligence  
-🔹 Operational Excellence   
+🔹 Business Process Improvement     
+🔹 Operational Excellence     
 🔹 Governance, Risk & Third-Party Management     
-🔹 Digital Transformation    
+🔹 Business Analytics & Decision Support    
+🔹 Digital Transformation       
 
 ### What drives me
 
@@ -36,10 +36,10 @@ graph TD
 
 My career has been about connecting these three dimensions to help organisations operate more effectively:
 
-• identifies inefficient workflows  
-• creates structure and standardisation  
-• improves collaboration between teams  
-• uses systems and analytics to support better decisions  
+• identify inefficient workflows and bottlenecks
+• create structure, standardisation and scalable processes
+• improve collaboration across teams and stakeholders
+• use systems and analytics to support better decisions  
 
 ---
 
