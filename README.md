@@ -133,18 +133,23 @@ src="https://img.shields.io/badge/Project%206%20Ecommerce%20Analytics%20:%20Buil
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills and Expertise
 
-- **Data Analyst:** SQL, PBI, Python, Machine Leearning & Statistic  
-- **Marketing & Media:** Social Media, TikTok Marketing, Video Content, Brand/Campaign Tracking  
-- **Sales & CRM:** Sales Consulting, B2B, CRM, Business Development, Customer Service  
-- **Research & Analysis:** Market Research, Social Listening, Strategic Planning  
-- **Tools & Tech:** MS Office, Figma, Canva, Python, BigQuery,  
-- **Soft Skills:** Team Leadership, Collaboration, Problem Solving, Adaptability, Critical Thinking  
-- **Languages:**  
-  - English: Professional proficiency  
-  - Chinese & Finnish: Limited proficiency  
-  - Vietnamese: Native
+**Business Systems & Process**      
+CRM • Workflow Optimisation • SOP Development • Stakeholder Management • Operational Excellence • Third-Party Coordination
+
+**Analytics**      
+SQL • Power BI • Python • Statistics • Machine Learning • BigQuery
+
+**Business**       
+Market Research • Customer Lifecycle • Sales Operations • Business Development
+
+**Platforms & Tools**       
+CRM • Excel • Power BI • BigQuery • Flatpay • Wolt • Uber Eats • MS Office
+
+**Languages**      
+Vietnamese (Native) • English (Professional) • Chinese (Limited) • Finnish (Elementary)
+
 ---
 
 ## 📌 Other Projects
