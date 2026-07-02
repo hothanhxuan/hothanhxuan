@@ -218,7 +218,7 @@ Started as a Sushi Chef while studying and was later promoted to Assistant Store
 
 Responsible for driving sales in the Southern region of Vietnam, offering leasing services for premium apartments and office spaces.
 - Managed and expanded the customer pipeline in assigned territories through outbound calls, targeted marketing campaigns, and networking events, achieving an 83.33% increase in active leasing contracts (from 09 accounts in Sep 2019 to 22 accounts in June 2022).
-- Negotiated with key stakeholders and successfully closed deals each month, signing 250+ lease contracts per year.
+- Negotiated with key stakeholders and successfully closed deals each month, signing 80+ lease contracts per year.
 - Managed a portfolio of 12 leasing projects with hundreds of properties, ranging from apartments to office spaces. 
 - Collaborated with the marketing team on pricing strategies, promotional content creation, and roperty image management.
 - Trained and coached sales team representatives on sales techniques and workflow processes.
