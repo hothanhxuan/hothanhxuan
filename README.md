@@ -36,10 +36,10 @@ graph TD
 
 My career has been about connecting these three dimensions to help organisations operate more effectively:
 
-• identify inefficient workflows and bottlenecks
-• create structure, standardisation and scalable processes
-• improve collaboration across teams and stakeholders
-• use systems and analytics to support better decisions  
+• identify inefficient workflows and bottlenecks     
+• create structure, standardisation and scalable processes   
+• improve collaboration across teams and stakeholders    
+• use systems and analytics to support better decisions     
 
 ---
 
