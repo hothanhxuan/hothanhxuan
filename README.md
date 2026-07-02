@@ -51,7 +51,7 @@ My career has been about connecting these three dimensions to help organisations
 📧 susanngo1995@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/susan95/) | [Portfolio](https://hothanhxuan.github.io)
 
-## 🚀 Featured Data Projects
+## 🚀 Featured Data (Analytics & Decision support) Projects
 
 <div align="left">
 
