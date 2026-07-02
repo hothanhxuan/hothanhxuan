@@ -1,7 +1,7 @@
 Welcome to my GitHub profile! 👋👋👋
 
 <h1 align="center"> Hei, I’m Xuan (Susan)! </h1>
-<h3 align="center"> On the journey to become a real Data Analyst! </h3>
+<!-- On the journey to become a real Data Analyst! -->
 <h3 align="center"> I am interested in the following topics: Data is the oil field of the 21st century, how do they create big impact for businesses? </h3>
 
 My name is Xuan, but you can call me Susan. 
