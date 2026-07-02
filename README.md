@@ -6,7 +6,13 @@ Welcome to my GitHub profile! 👋👋👋
 
 My name is Xuan, but you can call me Susan. 
 I graduated with honors and holds an MBA from Seinäjoki University of Applied Sciences in Finland, majoring in International Business Management. 
-I have a strong business mindset built on 5+ years of experience in sales consulting, customer relationship management, operations, and social media marketing. 
+
+My career has always centred around improving how businesses operate.
+
+From coordinating customer lifecycle processes through CRM systems, to developing SOPs, implementing operational improvements and building analytical dashboards, I enjoy connecting people, processes and technology to create more efficient business operations.
+
+I believe technology is most valuable when it enables better business decisions, stronger governance and smoother collaboration across teams.
+
 I'm passionate about working with data—transforming it into actionable insights that drive value for people and create measurable impact for businesses. 
 
 ## 📫 How to reach me: 
