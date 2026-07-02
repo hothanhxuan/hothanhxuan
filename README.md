@@ -2,18 +2,52 @@ Welcome to my GitHub profile! 👋👋👋
 
 <h1 align="center"> Hei, I’m Xuan (Susan)! </h1>
 <!-- On the journey to become a real Data Analyst! -->
-<h3 align="center"> I am interested in the following topics: Data is the oil field of the 21st century, how do they create big impact for businesses? </h3>
+<h3 align="center"> I am passionate about improving how businesses operate through the combination of business processes, digital systems and data analytics. </h3>
 
 My name is Xuan, but you can call me Susan. 
-I graduated with honors and holds an MBA from Seinäjoki University of Applied Sciences in Finland, majoring in International Business Management. 
+🎓 I graduated with honors and holds an MBA from Seinäjoki University of Applied Sciences in Finland, majoring in International Business Management. 
 
-My career has always centred around improving how businesses operate.
+Throughout my career, I have worked across **market research, sales & CRM operations, customer lifecycle management and business operations**, helping teams improve workflows, standardise processes and make better decisions using data.
 
-From coordinating customer lifecycle processes through CRM systems, to developing SOPs, implementing operational improvements and building analytical dashboards, I enjoy connecting people, processes and technology to create more efficient business operations.
+I enjoy connecting **people, processes and technology** to create more efficient and scalable business operations.
 
-I believe technology is most valuable when it enables better business decisions, stronger governance and smoother collaboration across teams.
+### Areas of Interest
 
-I'm passionate about working with data—transforming it into actionable insights that drive value for people and create measurable impact for businesses. 
+🔹 Business Process Improvement    
+🔹 Business Systems & CRM    
+🔹 Data Analytics & Business Intelligence  
+🔹 Operational Excellence   
+🔹 Governance & Third-Party Risk Management (TPRM)     
+🔹 Digital Transformation    
+
+### What drives me
+
+                 BUSINESS IMPACT
+                        ▲
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+     People         Processes       Technology
+        │               │               │
+ Customer         SOPs & Workflows    Analytics
+ Lifecycle        Standardisation     Dashboards
+ Stakeholders      Operations         BI & Automation
+
+My career has been about connecting these three dimensions to help organisations operate more effectively:
+
+• identifies inefficient workflows  
+• creates structure and standardisation  
+• improves collaboration between teams  
+• uses systems and analytics to support better decisions  
+
+This mindset has shaped my journey across:
+
+Market Research → CRM Operations → Business Systems → Analytics → Process Improvement
+
+---
+
+> I believe technology creates the most value when it helps people work better together, supports better decisions and enables organisations to operate more effectively.
+
 
 ## 📫 How to reach me: 
 📞 041 312 4555  
