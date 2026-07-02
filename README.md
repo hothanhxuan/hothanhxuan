@@ -4,12 +4,13 @@ Welcome to my GitHub profile! 👋👋👋
 <!-- On the journey to become a real Data Analyst! -->
 <h3 align="center"> I am passionate about improving how businesses operate through the combination of business processes, digital systems and data analytics. </h3>
 
-My name is Xuan, but you can call me Susan. 
+My name is Xuan, but you can call me Susan.
+
 🎓 I graduated with honors and holds an MBA from Seinäjoki University of Applied Sciences in Finland, majoring in International Business Management. 
 
 Throughout my career, I have worked across **market research, sales & CRM operations, customer lifecycle management and business operations**, helping teams improve workflows, standardise processes and make better decisions using data.
 
-I enjoy connecting **people, processes and technology** to create more efficient and scalable business operations.
+I enjoy connecting **people, processes and technology** to improve workflows, strengthen collaboration and create measurable business impact.
 
 ### Areas of Interest
 
@@ -25,7 +26,7 @@ I enjoy connecting **people, processes and technology** to create more efficient
 ```mermaid
 graph TD
     P["👥 People<br/>Customer Lifecycle<br/>Stakeholders"]
-    PR["⚙️ Processes<br/>SOPs & Workflows<br/>Standardisation Operations"]
+    PR["⚙️ Processes<br/>SOPs & Workflows<br/>Standardisation Operational Excellence"]
     T["💻 Technology<br/>Analytics Dashboards<br/>BI & Automation"]
 
     P --> BI["📈 Business Impact"]
