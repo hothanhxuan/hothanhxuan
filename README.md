@@ -245,10 +245,13 @@ Responsible for building and standardizing sales and marketing operations for th
 *Jan 2018 – Sep 2018* 
 
 Responsible for researching, monitoring and analyzing customer insights or consumer behaviors through user-data on social media.
-- Analyzed social listening data to track key KPIs such as buzz volume, buzz trend, and campaign sentiment across campaign lifecycles (pre-, during, and post-launch), generating insights that informed marketing strategies for major clients. 
-- Collaborated with cross-functional teams to optimize data collection and validation processes, enhancing data accuracy and ensuring reliable insights across beverage and agriculture projects.
-- Conducted trend and competitive landscape analysis by identifying top-performing campaigns (e.g., seasonal/holiday campaigns) and extracting success drivers, enabling clients to refine strategies and respond effectively to market trends.
-- Translated cleaned datasets into structured reports and insight-driven dashboards (PowerPoint), collaborating with clients and external agencies to interpret performance and drive actionable improvements in campaign effectiveness.
+- Analyzed social listening and consumer behavior data to generate actionable marketing insights for enterprise FMCG clients, including Coca-Cola Vietnam.    
+- Monitored campaign performance across pre-, during-, and post-launch phases by tracking KPIs such as buzz volume, sentiment, trends, and channel effectiveness to evaluate product performance and customer perception.     
+- Conducted competitive benchmarking and market trend analyses to identify campaign success drivers and consumer insights, informing communication, positioning, and marketing strategies.    
+- Identified key insights, including the impact of KOL channels on campaign buzz and customer concerns regarding taste and pricing, enabling more targeted marketing recommendations.     
+- Collaborated with cross-functional teams to improve data collection and validation processes, ensuring accurate and reliable reporting.     
+- Transformed large-scale consumer and social listening data into executive-ready reports and dashboards, supporting marketing investment decisions, campaign optimization, and stakeholder presentations.     
+
 
 ---
 
