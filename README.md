@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋👋👋
 <!-- On the journey to become a real Data Analyst! -->
 <h3 align="center"> I am passionate about improving how businesses operate through the combination of business processes, digital systems and data analytics. </h3>
 
-My name is Xuan, but you can call me Susan.
+My name is Xuan, but you can call me Susan.   
 
 🎓 I graduated with honors and holds an MBA from Seinäjoki University of Applied Sciences in Finland, majoring in International Business Management. 
 
