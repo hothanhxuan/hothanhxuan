@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! 👋👋👋 
+Welcome to my GitHub profile! 👋👋👋  
 
 <h1 align="center"> Hei, I’m Xuan (Susan)! </h1>
 <!-- On the journey to become a real Data Analyst! -->
